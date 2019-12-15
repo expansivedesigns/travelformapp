@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travelformapp/static/css/main.1d71a774.chunk.css",
+    "main.js": "/travelformapp/static/js/main.7f3411b1.chunk.js",
+    "main.js.map": "/travelformapp/static/js/main.7f3411b1.chunk.js.map",
+    "runtime-main.js": "/travelformapp/static/js/runtime-main.e0bf53bd.js",
+    "runtime-main.js.map": "/travelformapp/static/js/runtime-main.e0bf53bd.js.map",
+    "static/js/2.3b447154.chunk.js": "/travelformapp/static/js/2.3b447154.chunk.js",
+    "static/js/2.3b447154.chunk.js.map": "/travelformapp/static/js/2.3b447154.chunk.js.map",
+    "index.html": "/travelformapp/index.html",
+    "precache-manifest.9e04c003c819e2d7328819193f63dde0.js": "/travelformapp/precache-manifest.9e04c003c819e2d7328819193f63dde0.js",
+    "service-worker.js": "/travelformapp/service-worker.js",
+    "static/css/main.1d71a774.chunk.css.map": "/travelformapp/static/css/main.1d71a774.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0bf53bd.js",
+    "static/js/2.3b447154.chunk.js",
+    "static/css/main.1d71a774.chunk.css",
+    "static/js/main.7f3411b1.chunk.js"
+  ]
+}
